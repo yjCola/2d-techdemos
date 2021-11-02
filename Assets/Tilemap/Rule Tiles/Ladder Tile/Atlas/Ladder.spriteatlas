@@ -7,6 +7,7 @@ SpriteAtlas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Ladder
+  serializedVersion: 2
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -40,11 +41,13 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: c880ac2f074d0e949bbd557566f06215, type: 3}
-    totalSpriteSurfaceArea: 768
     bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300004, guid: c880ac2f074d0e949bbd557566f06215, type: 3}
@@ -54,5 +57,7 @@ SpriteAtlas:
   - ladder_2
   - ladder_0
   - ladder_1
+  m_RenderDataMap: {}
   m_Tag: Ladder
   m_IsVariant: 0
+  m_IsPlaceholder: 0

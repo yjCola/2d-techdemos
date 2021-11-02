@@ -7,6 +7,7 @@ SpriteAtlas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Animated Tiles
+  serializedVersion: 2
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -40,11 +41,13 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: bf541ba7810cafd43af665d35d1dc29e, type: 3}
-    totalSpriteSurfaceArea: 40960
     bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300014, guid: bf541ba7810cafd43af665d35d1dc29e, type: 3}
@@ -68,5 +71,7 @@ SpriteAtlas:
   - WaterfallTiles_0
   - WaterfallTiles_9
   - WaterfallTiles_8
+  m_RenderDataMap: {}
   m_Tag: Animated Tiles
   m_IsVariant: 0
+  m_IsPlaceholder: 0

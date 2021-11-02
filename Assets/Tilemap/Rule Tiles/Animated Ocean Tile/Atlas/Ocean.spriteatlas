@@ -7,6 +7,7 @@ SpriteAtlas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Ocean
+  serializedVersion: 2
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -40,11 +41,13 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 1dbca277352d7e7438b1f9ba168025cc, type: 3}
-    totalSpriteSurfaceArea: 12288
     bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300022, guid: 1dbca277352d7e7438b1f9ba168025cc, type: 3}
@@ -144,5 +147,7 @@ SpriteAtlas:
   - ocean_35
   - ocean_45
   - ocean_34
+  m_RenderDataMap: {}
   m_Tag: Ocean
   m_IsVariant: 0
+  m_IsPlaceholder: 0
